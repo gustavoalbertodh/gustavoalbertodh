@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front end`**
 
-Desenvolvedor front-end especializado em HTML, CSS, JavaScript e React, com foco na criação de interfaces modernas e responsivas. Trabalho com componentização, organização escalável de código e boas práticas de arquitetura no front-end. Tenho forte preocupação com usabilidade, clean code e padronização, garantindo projetos estruturados e de fácil manutenção. Estou em constante evolução no ecossistema web, estudando novas tecnologias, aprimorando minhas habilidades e buscando sempre elevar a qualidade das interfaces que desenvolvo.
+Desenvolvedor front-end especializado em HTML, CSS, JavaScript e React, focado na criação de interfaces modernas e responsivas. Trabalho com componentização, organização escalável de código e boas práticas de arquitetura no front-end. Também estudo e aplico conceitos de IA para otimizar fluxos de desenvolvimento e aprimorar soluções. Tenho forte preocupação com usabilidade, clean code e padronização, garantindo projetos estruturados e de fácil manutenção. Estou em constante evolução no ecossistema web, explorando novas tecnologias e elevando continuamente a qualidade das interfaces que desenvolvo.
 <br/>
 Técnico em manutenção e suporte em informática (SENAI).
 <br/>
