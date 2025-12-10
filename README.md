@@ -3,7 +3,9 @@
 **`Desenvolvedor Front end`**
 
 Sou Gustavo, desenvolvedor front-end focado em HTML, CSS, JavaScript e React. Crio interfaces modernas, responsivas e bem estruturadas, sempre aplicando boas práticas, componentização e organização limpa de código. Estou em constante evolução no ecossistema web, estudando novas tecnologias e aprimorando minhas habilidades.
+<br/>
 Técnico em manutenção e suporte em informática (SENAI).
+<br/>
 Análise e Desenvolvimento de Sistemas (GRAN).
 
 
@@ -57,6 +59,3 @@ Análise e Desenvolvimento de Sistemas (GRAN).
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-
-<br/>
-<br/>
